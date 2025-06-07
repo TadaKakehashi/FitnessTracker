@@ -1,13 +1,13 @@
 # FitnessTracker
 - to be done~!
 
-✅tracker/log of workouts  ..
-✅ability to customize workout schedule ..
-✅Simplify customization of workout  ...
-✅Add a small tutorial section to explain each workout 
-✅A registration process where we record weight, height, age and other relevant measures 
-✅Set workout goals for each user
-✅integration with google fit for tracking 
+✅tracker/log of workouts  .. <br>
+✅ability to customize workout schedule .. <br>
+✅Simplify customization of workout  ... <br>
+✅Add a small tutorial section to explain each workout  <br>
+✅A registration process where we record weight, height, age and other relevant measures  <br>
+✅Set workout goals for each user <br>
+✅integration with google fit for tracking  <br>
 
 Suggest workout schedule for all types of people and body types (beginner, intermediate, advanced)
 
